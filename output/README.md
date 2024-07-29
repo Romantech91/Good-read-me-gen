@@ -4,7 +4,7 @@
 
 ## Description
 
-this project was created so that we have a quick and easy way to generate a read me file using a saved template we can quickly access and run
+To provide a template to quickly acces and use for future projects
 
 ## Table of Contents
 
@@ -20,10 +20,10 @@ this project was created so that we have a quick and easy way to generate a read
 
 ## Installation
 
-none
+none.
 
 ## Usage
-read me file
+For future read me's
 
 
 ## Credits
